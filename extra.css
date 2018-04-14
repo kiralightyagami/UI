@@ -1,0 +1,32 @@
+body {
+	margin-top: 50px;/* 50px is the height of the navbar - change this if the navbarn height changes */
+	height:100%;
+}
+.hero-spacer {
+	margin-top: 50px;
+}
+
+.hero-feature {
+	margin-bottom: 30px;/* spaces out the feature boxes once they start to stack responsively */
+}
+
+footer {
+	margin:0;
+	position:absolute;
+	bottom:0;
+	height:60px;
+}
+
+html{
+	height:100%;
+}
+
+.wrapper{
+	min-height:100%;
+	position:relative;
+}
+
+.content{
+	paddding-bottom:60px;
+}
+
