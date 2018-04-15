@@ -18,7 +18,7 @@
                     </li>
                     <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <font size="+2">Admin Console</font>
+                <font size="+2">Admin Console</font><span class="glyphicon glyphicon-triangle-bottom"></span>
               </a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
                 <!-- <ul style="list-style-type:none" align="left">
